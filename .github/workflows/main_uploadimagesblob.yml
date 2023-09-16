@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'uploadImagesBlob'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_888E2732A64848BB8CA35E35500FF56A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CFEC6291132D421FA5AE78C62ABF876B }}
           package: .
